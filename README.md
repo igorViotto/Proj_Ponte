@@ -1,5 +1,6 @@
 # Projeto Ponte - Termo de abertura de projeto
 <br>
+<p><b>Integrantes:</b></p>
 <li>Igor viotto</li>
 <li>João Angeloni</li>
 <li>Gabriel Zonta</li>
