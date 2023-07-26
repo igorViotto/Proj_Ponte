@@ -20,6 +20,7 @@ O projeto será desenvolvido nas aulas de Projeto propriamente, em que nós os e
 <br>
 <p><b>3 - Requisitos:</b></p>
 <p>Para a construção do projeto serão utilizados pelo grupo aproximadamente 350 palitos comprados de picolé e um tubo de cola de madeira, que é mais apropriada para o projeto.</p>
+<p>Seu comprimento final está especulado para ser de 96cm, com no máximo 5 centimetros de diferença.</p>
 <br>
 <li>350 Palitos de picolé</li>
 <li>1 tubo de cola de madeira</li>
