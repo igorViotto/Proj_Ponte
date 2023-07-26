@@ -23,7 +23,8 @@ O projeto será desenvolvido nas aulas de Projeto propriamente, em que nós os e
 <p>Seu comprimento final está especulado para ser de 96 cm, aproximadamente 12cm de altura e largura de 13cm com no máximo 5 centimetros de diferença.</p>
 <br>
 <li>350 Palitos de picolé</li>
-<li>1 tubo de cola de madeira</li>
+<li>1 Tubo de cola de madeira</li>
+<li>Prendedores</li>
 
 
 
