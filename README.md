@@ -1,4 +1,10 @@
 # Projeto Ponte - Termo de abertura de projeto
+<br>
+<li>Igor viotto</li>
+<li>João Angeloni</li>
+<li>Gabriel Zonta</li>
+<li>Vera Lucia</li>
+<br>
 <p><b>1 - Justificativa do Projeto:</b></p>
 <p>Os professores do curso de Analise e desenvolvimento de Sistemas do SENAI propuseram a ideia de um Projeto: A Ponte de Palitos.
 <br>
