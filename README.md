@@ -6,6 +6,7 @@
 <li>Gabriel Zonta</li>
 <li>Vera Lucia</li>
 <br>
+<br>
 <p><b>1 - Justificativa do Projeto:</b></p>
 <p>Os professores do curso de Analise e desenvolvimento de Sistemas do SENAI propuseram a ideia de um Projeto: A Ponte de Palitos.
 <br>
