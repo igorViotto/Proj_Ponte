@@ -14,6 +14,7 @@ O projeto será desenvolvido nas aulas de Projeto propriamente, em que nós os e
 <p>Para a construção do projeto serão utilizados pelo grupo aproximadamente 350 palitos comprados de picolé e um tubo de cola de madeira, que é mais apropriada para o projeto.</p>
 <br>
 <li>350 Palitos de picolé</li>
+<li>1 tubo de cola de madeira</li>
 
 
 
