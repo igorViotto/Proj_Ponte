@@ -9,6 +9,11 @@ O projeto será desenvolvido nas aulas de Projeto propriamente, em que nós os e
 <br>
 <p><b>2 - Objetivos:</b></p>
 <p>Projetar e executar uma ponte treliçada com palitos de picolé e cola, em modelo reduzido, A construção da ponte deverá ter os requisitos estruturais do modelo Warrer e no teste final de carga aguentar o peso proposto pelo professor (20 kg). Veremos como a qualidade de construção e a capacidade de trabalho em equipe afeta o desempenho da estrutura.</p>
+<br>
+<p><b>3 - Requisitos:</b></p>
+<p>Para a construção do projeto serão utilizados pelo grupo aproximadamente 350 palitos comprados de picolé e um tubo de cola de madeira, que é mais apropriada para o projeto.</p>
+
+
 
 
 
