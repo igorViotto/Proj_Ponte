@@ -6,4 +6,10 @@ O projeto será desenvolvido nas aulas de Projeto propriamente, em que nós os e
 <br>
 <p><b>O sistema de estrutura Warrer:</b></p>
 <p>A ponte Warrer é outro sistema de estrutura de treliça muito popular e é facilmente identificado por sua construção a partir de triângulos equiláteros, esse foi o sistema escolhido para o desafio e todos os grupos utilizarão de sua estrutura para a complementação do projeto.</p>
+<br>
+<p><b>2 - Objetivos:</b></p>
+<p>Projetar e executar uma ponte treliçada com palitos de picolé e cola, em modelo
+reduzido, A costrução da ponte deverá ter o requisitos estruturais do modelo Warrer e no teste final de carga aguentar o peso proposto pelo professor (20 kilos). Veremos como a qualidade de construção e a capacidade de trabalho em equipe afeta o desempenho da estrutura.</p>
+
+
 
